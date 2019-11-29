@@ -1,0 +1,31 @@
+Range 0 (Array of size 0 to 9)
+Total comparisons : 5000
+Heap sort : 956
+Heap sort variant : 964
+Equal times : 3080
+
+Range 1 (Array of size 10 to 19)
+Total comparisons : 5000
+Heap sort : 1074
+Heap sort variant : 1369
+Equal times : 2557
+
+Range 2 (Array of size 100 to 199)
+Total comparisons : 5000
+Heap sort : 4193
+Heap sort variant : 358
+Equal times : 449
+
+Range 3 (Array of size 1000 to 1999)
+Total comparisons : 5000
+Heap sort : 4883
+Heap sort variant : 81
+Equal times : 36
+
+Range 4 (Array of size 10000 to 19999)
+Total comparisons : 5000
+Heap sort : 4954
+Heap sort variant : 42
+Equal times : 4
+
+

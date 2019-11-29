@@ -1,0 +1,9 @@
+QuickSort w/ Lomoto Partition:
+For 100000 arrays : 8.72277 secs
+Average : 0.000087 secs
+QuickSort w/ Hoare's Partition:
+For 100000 arrays : 8.852794 secs
+Average : 0.000089 secs
+QuickSort w/ Median of Three:
+For 100000 arrays : 30.314627 secs
+Average : 0.000303 secs
